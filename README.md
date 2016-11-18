@@ -14,4 +14,7 @@ The punctured Reed-Muller codes make our task very simple as they provide a very
 Additionally, if we want to extend the precision of one or more of the dimensions of this space from the binary space of 0 and 1, to a more extensive space such as the 2^n numbers encoded as fixed point binary strings of length m. We can do this easily and in a natural way by simply considering the axis parallel mirror reflections of the original partitions of the hypercube.
 
 
+The files included in this repo demonstrate a functional approach to quickly calculating Reed-Muller code words reresenting the centers of equally sized 'spherical' subsets of a hypercube.
+
+Michael Tighe Haag
 
