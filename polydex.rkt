@@ -3,7 +3,7 @@
 ;(require racket/require
 ;  (path-up "Projects/source-libs/tools.rkt"))
 (require racket/require
-  (path-up "source-libs/func-radix-tree-free.rkt"))
+  (path-up "func-radix-tree-free.rkt"))
 
 (require bitsyntax)
 ;[require plot]
