@@ -30,7 +30,7 @@ a very easy to construct a family of (2^n + 1) different partitions of the (2^(2
 
 Additionally, if we want to extend our data structure from the binary 
 space of 0 and 1, to a more extensive space such as the fixed point 
-binary numbers of length 2^m for one or more of the n dimensions of this space, 
+binary numbers of length m for one or more of the n dimensions of this space, 
 we can do so in a natural way by simply considering the axis parallel 
 mirror reflections of the codes from this origonal hypercube. 
 
